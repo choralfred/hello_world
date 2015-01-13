@@ -1,5 +1,6 @@
 # hello_world
-A repository for codes, ideas, resources and general notes including discussions, brainstorms or feedback.
+this is my virtual repository for any codes, ideas, resources, and general notes including discussions, screenshots or key highlights.
 
-I'm an 'aspiring' programmer with an interest on front-end, back-end, full-stack.
-I would love to work with the big data. Some day create a few awesome apps for the public.
+fellow humans,
+help me explore the joy of of writing codes and algorithms. help me have a detailed understanding and broaden my scope of usable languages and systems. Teach me how to build clean and simple-to-understand codes that are sometimes beautiful. above-all-else, communicate, communicate, communicate.
+
